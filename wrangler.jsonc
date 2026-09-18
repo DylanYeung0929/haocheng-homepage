@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "haocheng-homepage",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-09-11",
+  "kv_namespaces": [
+    {
+      "binding": "CURATION",
+      "id": "b16f3c2d6040437a98085a987124a68f"
+    }
+  ]
+}
