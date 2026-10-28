@@ -78,3 +78,9 @@ npm run preview
 ## 版本说明
 
 本仓库是浅色版本。深色编辑部风格及中英切换等后续设计见 [haocheng-homepage-v2](https://github.com/DylanYeung0929/haocheng-homepage-v2)。
+
+## 许可证 / License
+
+除另有注明外，本仓库中由 DylanYeung0929 有权授权的原创代码与文档采用 [MIT License](LICENSE)。第三方代码、依赖、合作成果、数据集、赛题、图片、字体及其他素材不因本许可证而改变授权，仍适用各自的许可与权利声明。
+
+Unless otherwise noted, original code and documentation that DylanYeung0929 has the right to license are available under the [MIT License](LICENSE). This grant does not relicense third-party code, dependencies, jointly authored works, datasets, problem statements, images, fonts, or other assets; their respective licenses and rights remain applicable.
